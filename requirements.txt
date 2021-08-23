@@ -2,7 +2,7 @@ pandas==1.0.5
 numpy==1.19.0
 scikit-learn==0.23.1
 jupyter==1.0.0
-jupyterlab==2.1.5
+jupyterlab==2.2.10
 matplotlib==3.2.2
 seaborn==0.10.1
 spacy==2.3.1
